@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-videocall/static/css/main.48abf03f.css",
-    "main.js": "/react-videocall/static/js/main.0f19bd3c.js",
+    "main.js": "/react-videocall/static/js/main.304b7b6e.js",
     "index.html": "/react-videocall/index.html",
     "main.48abf03f.css.map": "/react-videocall/static/css/main.48abf03f.css.map",
-    "main.0f19bd3c.js.map": "/react-videocall/static/js/main.0f19bd3c.js.map"
+    "main.304b7b6e.js.map": "/react-videocall/static/js/main.304b7b6e.js.map"
   },
   "entrypoints": [
     "static/css/main.48abf03f.css",
-    "static/js/main.0f19bd3c.js"
+    "static/js/main.304b7b6e.js"
   ]
 }
