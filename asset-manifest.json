@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-videocall/static/css/main.48abf03f.css",
+    "main.js": "/react-videocall/static/js/main.d061c025.js",
+    "index.html": "/react-videocall/index.html",
+    "main.48abf03f.css.map": "/react-videocall/static/css/main.48abf03f.css.map",
+    "main.d061c025.js.map": "/react-videocall/static/js/main.d061c025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48abf03f.css",
+    "static/js/main.d061c025.js"
+  ]
+}
