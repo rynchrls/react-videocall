@@ -7,7 +7,7 @@ import JoiningRoom from './pages/joiningroom';
 function App() {
   return (
     <Routes>
-      <Route index path='/' element={<Home />} />
+      <Route index path='/react-videocall' element={<Home />} />
       <Route path='/joiningroom' element={<JoiningRoom />} />
       <Route path='/room/:roomId' element={<Room />} />
     </Routes>
