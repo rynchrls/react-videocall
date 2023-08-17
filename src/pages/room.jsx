@@ -23,7 +23,7 @@ const Room = () => {
           sharedLinks: [
               {
                   name: 'Copy Link',
-                  url: `https://rynchrls.github.io/room/${roomId}`
+                  url: 'https://rynchrls.github.io/room'
               }
           ],
           scenario: {

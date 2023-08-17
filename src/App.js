@@ -9,7 +9,7 @@ function App() {
     <Routes>
       <Route index path='/react-videocall' element={<Home />} />
       <Route path='/joiningroom' element={<JoiningRoom />} />
-      <Route path='/room/:roomId' element={<Room />} />
+      <Route path='/room' element={<Room />} />
     </Routes>
   );
 }
