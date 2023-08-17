@@ -23,7 +23,7 @@ const Room = () => {
           sharedLinks: [
               {
                   name: 'Copy Link',
-                  url: 'https://rynchrls.github.io/room'
+                  url: 'https://rynchrls.github.io/react-videocall'
               }
           ],
           scenario: {
